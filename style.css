@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    font-family: 'Pacifico', cursive;
+}
+
+.yuu_imagens{
+    border: 5px solid black;
+}
+
+.main_title{
+    display: inline;
+    text-align: center;
+}
+
+.letras{
+    font-size: 30px;
+}
+
+.second_title{
+    display: inline;
+    text-align: center;
+    padding-top: -40px;
+}
+
+.clear{
+    clear: both;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+}
